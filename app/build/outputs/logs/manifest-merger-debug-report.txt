@@ -1,0 +1,136 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Acer\Documents\Moviles\Clases\TracingV2\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Acer\Documents\Moviles\Clases\TracingV2\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Acer\Documents\Moviles\Clases\TracingV2\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Acer\Documents\Moviles\Clases\TracingV2\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\6a76dfb297c3e7d7a966f6dc5b96d2d4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\619b1cefb8dc97f1c10d928dd3fbedaf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\8ad771b6a1ce95d66f9eedf23c7dbe5b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\16597e6ef465f407dd83dea663e3c304\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\6b962b8f8a0c450e51572981d3f47167\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\8ad54367c4ca19214754593076c4c506\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\f3cf3862f1a6b1f6babb32f1c4d54aee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\a23f59e5941f518d3b466565a89e109d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\39021bba5135208349bf45aadddf03a5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\342c7bd8e6ec60d81c50fdae45c7709b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\05728008943d84de34e55fd0b1636c7d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\487288d49b35119a16d070b56610dc24\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\1450c99055ee833d6a90304671a9ef15\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e5eea206be3bbb1817dc358063a8dbaa\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f7bf861c0d03d11a38d39cf7a7bb949c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f8487dde46f5590fe49ef35f8b016c15\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ecc9773152e639b22b87198dd5f4f984\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Acer\Documents\Moviles\Clases\TracingV2\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Acer\Documents\Moviles\Clases\TracingV2\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Acer\Documents\Moviles\Clases\TracingV2\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\Users\Acer\Documents\Moviles\Clases\TracingV2\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Users\Acer\Documents\Moviles\Clases\TracingV2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Acer\Documents\Moviles\Clases\TracingV2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Acer\Documents\Moviles\Clases\TracingV2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Acer\Documents\Moviles\Clases\TracingV2\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\Acer\Documents\Moviles\Clases\TracingV2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Acer\Documents\Moviles\Clases\TracingV2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Acer\Documents\Moviles\Clases\TracingV2\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\Acer\Documents\Moviles\Clases\TracingV2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Acer\Documents\Moviles\Clases\TracingV2\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Acer\Documents\Moviles\Clases\TracingV2\app\src\main\AndroidManifest.xml:5:5-27:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\8ad771b6a1ce95d66f9eedf23c7dbe5b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\8ad771b6a1ce95d66f9eedf23c7dbe5b\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Acer\Documents\Moviles\Clases\TracingV2\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Acer\Documents\Moviles\Clases\TracingV2\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Acer\Documents\Moviles\Clases\TracingV2\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Acer\Documents\Moviles\Clases\TracingV2\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Acer\Documents\Moviles\Clases\TracingV2\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Acer\Documents\Moviles\Clases\TracingV2\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.lenovoexample.tracingv2.SplashActivity
+ADDED from C:\Users\Acer\Documents\Moviles\Clases\TracingV2\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Acer\Documents\Moviles\Clases\TracingV2\app\src\main\AndroidManifest.xml:12:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Acer\Documents\Moviles\Clases\TracingV2\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Acer\Documents\Moviles\Clases\TracingV2\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Acer\Documents\Moviles\Clases\TracingV2\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Acer\Documents\Moviles\Clases\TracingV2\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Acer\Documents\Moviles\Clases\TracingV2\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.lenovoexample.tracingv2.LoginActivity
+ADDED from C:\Users\Acer\Documents\Moviles\Clases\TracingV2\app\src\main\AndroidManifest.xml:19:9-51
+	android:name
+		ADDED from C:\Users\Acer\Documents\Moviles\Clases\TracingV2\app\src\main\AndroidManifest.xml:19:19-48
+activity#com.lenovoexample.tracingv2.RegistroActivity
+ADDED from C:\Users\Acer\Documents\Moviles\Clases\TracingV2\app\src\main\AndroidManifest.xml:20:9-54
+	android:name
+		ADDED from C:\Users\Acer\Documents\Moviles\Clases\TracingV2\app\src\main\AndroidManifest.xml:20:19-51
+activity#com.lenovoexample.tracingv2.MainActivity
+ADDED from C:\Users\Acer\Documents\Moviles\Clases\TracingV2\app\src\main\AndroidManifest.xml:22:9-25:20
+	android:label
+		ADDED from C:\Users\Acer\Documents\Moviles\Clases\TracingV2\app\src\main\AndroidManifest.xml:24:13-56
+	android:name
+		ADDED from C:\Users\Acer\Documents\Moviles\Clases\TracingV2\app\src\main\AndroidManifest.xml:23:13-41
+activity#com.lenovoexample.tracingv2.PerfilActivity
+ADDED from C:\Users\Acer\Documents\Moviles\Clases\TracingV2\app\src\main\AndroidManifest.xml:26:9-61
+	android:name
+		ADDED from C:\Users\Acer\Documents\Moviles\Clases\TracingV2\app\src\main\AndroidManifest.xml:26:19-49
+uses-sdk
+INJECTED from C:\Users\Acer\Documents\Moviles\Clases\TracingV2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Acer\Documents\Moviles\Clases\TracingV2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Acer\Documents\Moviles\Clases\TracingV2\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\6a76dfb297c3e7d7a966f6dc5b96d2d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\6a76dfb297c3e7d7a966f6dc5b96d2d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\619b1cefb8dc97f1c10d928dd3fbedaf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\619b1cefb8dc97f1c10d928dd3fbedaf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\8ad771b6a1ce95d66f9eedf23c7dbe5b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\8ad771b6a1ce95d66f9eedf23c7dbe5b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\16597e6ef465f407dd83dea663e3c304\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\16597e6ef465f407dd83dea663e3c304\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\6b962b8f8a0c450e51572981d3f47167\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\6b962b8f8a0c450e51572981d3f47167\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\8ad54367c4ca19214754593076c4c506\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\8ad54367c4ca19214754593076c4c506\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\f3cf3862f1a6b1f6babb32f1c4d54aee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\f3cf3862f1a6b1f6babb32f1c4d54aee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\a23f59e5941f518d3b466565a89e109d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\a23f59e5941f518d3b466565a89e109d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\39021bba5135208349bf45aadddf03a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\39021bba5135208349bf45aadddf03a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\342c7bd8e6ec60d81c50fdae45c7709b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\342c7bd8e6ec60d81c50fdae45c7709b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\05728008943d84de34e55fd0b1636c7d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\05728008943d84de34e55fd0b1636c7d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\487288d49b35119a16d070b56610dc24\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\487288d49b35119a16d070b56610dc24\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\1450c99055ee833d6a90304671a9ef15\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\1450c99055ee833d6a90304671a9ef15\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e5eea206be3bbb1817dc358063a8dbaa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e5eea206be3bbb1817dc358063a8dbaa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f7bf861c0d03d11a38d39cf7a7bb949c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f7bf861c0d03d11a38d39cf7a7bb949c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f8487dde46f5590fe49ef35f8b016c15\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f8487dde46f5590fe49ef35f8b016c15\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ecc9773152e639b22b87198dd5f4f984\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ecc9773152e639b22b87198dd5f4f984\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Acer\Documents\Moviles\Clases\TracingV2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Acer\Documents\Moviles\Clases\TracingV2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Acer\Documents\Moviles\Clases\TracingV2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Acer\Documents\Moviles\Clases\TracingV2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Acer\Documents\Moviles\Clases\TracingV2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Acer\Documents\Moviles\Clases\TracingV2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Acer\Documents\Moviles\Clases\TracingV2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Acer\Documents\Moviles\Clases\TracingV2\app\src\main\AndroidManifest.xml
